@@ -46,5 +46,3 @@ kb_start.add(b7_1)
 b7_1 = KeyboardButton('Посмотреть!')
 kb_view = ReplyKeyboardMarkup(resize_keyboard=True, one_time_keyboard=True)
 kb_view.add(b7_1)
-
-
